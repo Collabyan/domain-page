@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /about.html
+Allow: /privacy-policy.html
+Allow: /ads.txt
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://girexa.com/sitemap.xml
+
+# Google AdSense Bot
+User-agent: Googlebot
+Allow: /
